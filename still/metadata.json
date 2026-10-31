@@ -1,0 +1,8 @@
+{
+    "KPlugin": {
+        "Authors": [ { "Name": "splicer scorn (voidrane)" } ],
+        "Id": "Xenoglyph",
+        "License": "GPL-3.0-or-later",
+        "Name": "Xenoglyph (still)"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [ { "Name": "splicer scorn (voidrane)" } ],
+        "Category": "",
+        "Description": "Living Xenoglyph sigil on alien-white skin: counter-turning rings of Daedric script, a blinking red eye, drifting glyphs and a scanning beam",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "scorn.xenoglyph",
+        "License": "GPL-3.0-or-later",
+        "Name": "Xenoglyph (animated)",
+        "Version": "1.0",
+        "Website": "https://github.com/numbpill3d/xenoglyph"
+    }
+}
